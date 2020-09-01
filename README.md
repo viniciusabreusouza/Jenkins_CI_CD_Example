@@ -1,1 +1,2 @@
-# Jenkins_CI_CD_Example
+# wscicd
+Workshop CiCd
